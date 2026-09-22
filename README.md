@@ -13,8 +13,8 @@ An end-to-end data analytics project evaluating B2B sales pipeline conversion dy
 ---
 
 ## 📈 Key Metrics Summary
-| Metric | Value | Business Interpretation |
-| :--- | :--- | :--- |
+| Metric                    | Value       | Business Interpretation                                            |
+| 
 | **Overall Deal Win Rate** | **48.16%** | Baseline conversion rate across all pipeline opportunities[cite: 2] |
 | **Top Performing Team** | **52.07%** | Led by Rocco Neubert (691 won out of 1,327 pitched opportunities)[cite: 2] |
 | **Lowest Converting Team** | **45.72%** | Managed by Melvin Marxen (882 won out of 1,929 pitched opportunities)[cite: 2] |
