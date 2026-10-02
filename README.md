@@ -197,14 +197,14 @@ DIVIDE([TotalWon], [TotalAllDeals], 0)
 #### Page 1: Sales Performance & KPI Overview
 
 *Deal conversion rates, manager benchmark table, and product win vs. loss distributions.*
-![Home page](<Dashboards\Dashboard1.png>)
+![Home page](<Dashboards/Dashboard1.png>)
 
 ---
 
 #### Page 2: Pipeline Velocity & Time Intelligence
 
 *Quarter-over-quarter deal progress, monthly engagement volume, and sales rep rankings.*
-![Main KPIs page](<Dashboards\Dashboard2.png>)
+![Main KPIs page](<Dashboards/Dashboard2.png>)
 ---
 
 ## 🚀 How to Run Locally
