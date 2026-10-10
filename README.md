@@ -207,6 +207,12 @@ DIVIDE([TotalWon], [TotalAllDeals], 0)
 ![Main KPIs page](<Dashboards/Dashboard2.png>)
 ---
 
+## Summary and Recommendation
+*1.Analyzed 8,800+ CRM opportunities using T-SQL conditional aggregation, date analysis, and window functions to establish a 48.16% overall win rate and benchmark performance across 30 sales agents and 6 teams.*
+#### *2.Identified a 6.35-percentage-point gap in team win rates (45.72%–52.07%) and a 24.56-percentage-point spread among sales representatives (40.84%–65.40%), highlighting opportunities for targeted coaching and sales-process improvement.*
+### *3.Built a star-schema data model and interactive 2-page Power BI dashboard using DAX measures to track team performance, product win/loss rates, and sales trends; recommended reviewing qualification practices in lower-converting teams and investigating the GTK 500's 37.50% win rate before making product or pricing decisions.*
+
+
 ## 🚀 How to Run Locally
 
 1. Clone the repository:
